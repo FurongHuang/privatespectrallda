@@ -1,0 +1,14 @@
+# Caches
+__pycache__/
+
+# IDEs
+**.idea/
+**.vscode/
+
+# Dev Deps
+Pipfile
+Pipfile.lock
+
+# Notebook junk
+
+**.ipynb_checkpoints/
